@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "ask-cast": {
+      "url": "${CAST_HIGHLIGHT_MCP_URL}",
+      "headers": {
+        "highlight_domain": "${CAST_HIGHLIGHT_DOMAIN_ID}",
+        "highlight_api_key": "${CAST_HIGHLIGHT_USER_TOKEN}"
+      },
+      "disabled": false,
+      "autoApprove": []
+    }
+  }
+}

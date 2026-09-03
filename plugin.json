@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cast-highlight-ask-cast-mcp",
+  "version": "1.0.0",
+  "description": "Ask CAST about your applications analyzed by CAST Highlight (agentic readiness, cloud maturity, open source risks, and much more).",
+  "author": {
+    "name": "CAST",
+    "url": "https://www.castsoftware.com"
+  },
+  "keywords": [
+    "cast highlight",
+    "casthighlight",
+	"mcp",
+    "application portfolio",
+    "portfolio analysis",
+    "technical debt",
+    "software composition analysis",
+    "sca",
+    "open source risk",
+    "cve",
+    "vulnerability",
+    "cloud maturity",
+    "agentic readiness",
+    "modernization",
+    "code quality",
+    "portfolio advisor"
+  ],
+  "homepage": "https://www.castsoftware.com/highlight",
+  "license": "MIT"
+}
