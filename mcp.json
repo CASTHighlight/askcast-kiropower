@@ -2,6 +2,19 @@
   "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
   "mcpServers": {
     "ask-cast": {
+	  "inputs": [
+		{
+		  "type": "promptString",
+		  "id": "highlight-domain",
+		  "description": "CAST Highlight domain/company ID"
+		},
+		{
+		  "type": "promptString",
+		  "id": "highlight-api-token",
+		  "description": "CAST Highlight API token",
+		  "password": true
+		}
+	  ]
       "type": "stdio",
       "command": "npx",
       "url": "${CAST_HIGHLIGHT_MCP_URL}",
