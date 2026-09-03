@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "cast-highlight",
+  "name": "CAST Highlight — Ask CAST",
   "version": "1.1.0",
   "description": "Analyze your application portfolio with CAST Highlight — technical debt, open-source security risk, cloud readiness, and agentic/AI readiness — and trigger new code scans via the CAST Highlight GitHub Action.",
   "author": {
