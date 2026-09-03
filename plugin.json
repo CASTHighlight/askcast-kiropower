@@ -1,16 +1,15 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "CAST Highlight - Ask CAST",
-  "version": "1.0.0",
-  "description": "Ask CAST about your applications analyzed by CAST Highlight (agentic readiness, cloud maturity, open source risks, and much more).",
+  "name": "cast-highlight",
+  "version": "1.1.0",
+  "description": "Analyze your application portfolio with CAST Highlight — technical debt, open-source security risk, cloud readiness, and agentic/AI readiness — and trigger new code scans via the CAST Highlight GitHub Action.",
   "author": {
-    "name": "CAST",
+    "name": "CAST Software",
     "url": "https://www.castsoftware.com"
   },
   "keywords": [
     "cast highlight",
     "casthighlight",
-	"mcp",
     "application portfolio",
     "portfolio analysis",
     "technical debt",
@@ -19,11 +18,16 @@
     "open source risk",
     "cve",
     "vulnerability",
-    "cloud maturity",
+    "cloud readiness",
     "agentic readiness",
     "modernization",
     "code quality",
-    "portfolio advisor"
+    "portfolio advisor",
+    "run a scan",
+    "trigger scan",
+    "code scan",
+    "highlight scan action",
+    "github action scan"
   ],
   "homepage": "https://www.castsoftware.com/highlight",
   "license": "MIT"
