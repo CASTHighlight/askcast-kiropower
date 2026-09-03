@@ -1,8 +1,8 @@
-# CAST Highlight — Kiro Power
+# CAST Highlight — Ask CAST Kiro Power
 
 Gives Kiro's agent instant, on-demand access to CAST Highlight's application
 portfolio data — technical debt, open-source security risk, cloud readiness,
-and agentic/AI readiness — via the CAST Highlight MCP Server, plus the
+and agentic/AI readiness — via Ask CAST, the CAST Highlight MCP Server, plus the
 domain vocabulary to talk about results the way CAST Highlight does
 (Portfolio Advisor quadrants, Verified/Inferred CVE detection, etc.).
 
