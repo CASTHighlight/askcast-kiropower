@@ -1,6 +1,6 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
-  "name": "CAST Highlight → Ask CAST",
+  "name": "CAST Highlight — Ask CAST Kiro Power",
   "version": "1.0.0",
   "description": "Ask CAST about your applications analyzed by CAST Highlight (agentic readiness, cloud maturity, open source risks, and much more).",
   "author": {
